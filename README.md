@@ -7,8 +7,7 @@
 2. [How To Install](#install)
 3. [How To Use](#use)
 4. [Built With](#built)
-5. [Code Snippet](#snippet)
-6. [Author](#author)
+5. [Author](#author)
 
 ## Description 
 <h2 id="description"></h2> 
